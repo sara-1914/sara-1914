@@ -1,16 +1,13 @@
-## Hi there 👋
+🌠 About Me:
 
-<!--
-**sara-1914/sara-1914** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! 👋
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 B.Tech student passionate about software development.
+- 💻 Learning and practicing Python, Java, SQL, HTML, and CSS.
+- 🚀 Exploring new technologies and improving my programming skills.
+- 🛠️ Building projects to apply my knowledge and solve problems.
+- 🌐 Interested in web development and creating user-friendly applications.
+- 📚 Always learning and strengthening my technical skills.
+- 🌱 Turning ideas into code, one project at a time!
+- ✨ Always curious, always growing.
+- 🤝 Let's connect, learn, and build something amazing together!
